@@ -10,12 +10,12 @@ namespace ConsoleApplication8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите первое число");
+            Console.WriteLine("слыш,число ввел");
 
             string S1 = Console.ReadLine();
             int a = int.Parse(S1);
 
-            Console.WriteLine("Введите второе число");
+            Console.WriteLine("число два");
             string S2 = Console.ReadLine();
             int b = int.Parse(S2);
 
